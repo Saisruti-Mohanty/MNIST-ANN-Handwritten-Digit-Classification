@@ -1,4 +1,3 @@
-
 # MNIST Handwritten Digit Classification using ANN
 
 A Deep Learning project that uses an Artificial Neural Network (ANN) to recognize handwritten digits from the MNIST dataset.
